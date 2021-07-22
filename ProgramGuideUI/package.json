@@ -35,7 +35,7 @@
     "redux-logger": "^3.0.6",
     "redux-thunk": "^2.3.0",
     "tachyons-components": "^1.0.0-1",
-    "xlsx": "^0.14.2",
+    "xlsx": "^0.17.0",
     "xml-formatter": "^1.0.1"
   },
   "scripts": {
