@@ -11,7 +11,7 @@
     "install": "^0.12.1",
     "jquery": "^3.4.1",
     "jsontoxml": "^1.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "popper.js": "^1.14.3",
     "react": "^16.4.1",
     "react-autosuggest": "^9.3.4",
