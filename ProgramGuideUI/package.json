@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
-    "bootstrap": "^4.1.1",
+    "bootstrap": "^4.3.1",
     "create-react-class": "^15.6.3",
     "file-saver": "^2.0.0",
     "inline-style-prefixer": "^5.0.1",
