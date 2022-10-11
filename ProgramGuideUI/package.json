@@ -30,7 +30,7 @@
     "react-table": "^6.8.6",
     "react-toggle": "^4.0.2",
     "react-treebeard": "^2.1.0",
-    "read-excel-file": "^2.0.2",
+    "read-excel-file": "^5.5.0",
     "redux": "^4.0.1",
     "redux-logger": "^3.0.6",
     "redux-thunk": "^2.3.0",
